@@ -56,8 +56,7 @@ npm run preview
 └── tailwind.config.js (if added)
 
 🌍 Live Demo
-
-(Coming Soon)
+https://github.com/user-attachments/assets/d1874d20-c9db-440a-83ba-120b511f1538
 
 📝 License
 
