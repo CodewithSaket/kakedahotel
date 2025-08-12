@@ -1,12 +1,65 @@
-# React + Vite
+Diego – Modern React + Vite Hotel Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Diego is a modern, lightning-fast hotel booking and hospitality web application starter. Built with React and Vite, styled with Tailwind CSS, and enforced with a robust ESLint configuration, it’s designed for both rapid prototyping and production-grade scalability.
 
-Currently, two official plugins are available:
+📊 Key Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+⚡ Vite-Powered – Blazing-fast development and optimized builds.
 
-## Expanding the ESLint configuration
+🌈 Tailwind CSS – Responsive, utility-first styling out of the box.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+♻ React 19 – Modern UI components with Fast Refresh.
+
+🛡 ESLint Integration – Maintain clean, consistent, and error-free code.
+
+🏨 Hotel-Ready Structure – Perfect starting point for hotel booking or hospitality-related apps.
+
+📚 Tech Stack
+
+Frontend: React, Tailwind CSS
+
+Bundler: Vite
+
+Linting: ESLint with React Hooks and Refresh plugins
+
+🔄 Getting Started
+
+1. Clone the Repository
+
+git clone https://github.com/CodewithSaket/diego.git
+cd diego
+
+2. Install Dependencies
+
+npm install
+
+3. Start Development Server
+
+npm run dev
+
+4. Build for Production
+
+npm run build
+
+5. Preview Production Build
+
+npm run preview
+
+🛠 Project Structure
+
+.
+├── public/          # Static assets
+├── src/             # Application source code
+├── index.html       # Entry HTML file
+├── package.json     # Project metadata and scripts
+├── vite.config.js   # Vite configuration
+└── tailwind.config.js (if added)
+
+🌍 Live Demo
+
+(Coming Soon)
+
+📝 License
+
+This project is licensed under the MIT License.
+
